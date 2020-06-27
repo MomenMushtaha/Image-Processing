@@ -5,8 +5,8 @@ Price : $5
 
 Contact Information:
 Team:		Summer2020 ECOR 1051-T20
-Team Leader:	Momin Mustaha
-Email: 		moe.mustaha@carleton.ca
+Team Leader:	Momen Mustaha
+Email: 		moemushtaha@carleton.ca
 
 Description:
 An interactive program created to apply a variety of filters to an image cumulatively by the user. 
