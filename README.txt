@@ -1,12 +1,11 @@
 ECOR1051 Summer2020 Team T20  Carleton Image Photoshop Version 1.0.2 16/06/2020
 
-Name of Software : Carleton Image Photoshop
-Price : $5
+Name of Software : Image Processing
 
 Contact Information:
 Team:		Summer2020 ECOR 1051-T20
 Team Leader:	Momen Mustaha
-Email: 		moemushtaha@carleton.ca
+Email: 		moemushtaha@cmail.carleton.ca
 
 Description:
 An interactive program created to apply a variety of filters to an image cumulatively by the user. 
